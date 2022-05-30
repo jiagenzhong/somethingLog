@@ -1,4 +1,4 @@
-# 《riscv-spec》_(书上看不太懂的)
+# 2022_《riscv-spec》_笔记
 
 ## chapter 8.2(66/283)
 Load-Reserved/Store-Conditional Instructions
@@ -259,11 +259,8 @@ One advantage of CAS is that it guarantees that some hart eventually makes progr
 To avoid this concern, we added an architectural guarantee of livelock freedom for certain LR/SC sequences.
 Earlier versions of this specification imposed a stronger starvation-freedom guarantee.  
 
-However, the weaker livelock-freedom guarantee is sufficient to implement the C11 and C++11 languages, and is substantially easier to provide in some microarchitectural styles
+However, the weaker livelock-freedom guarantee is sufficient to implement the C11 and C++11 languages, and is substantially easier to provide in some microarchitectural styles  
+
 ------👆 横线内容 👆------
 
 
-------👇 横线内容 👇------  
-
-
-------👆 横线内容 👆------  
