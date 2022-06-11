@@ -1,4 +1,4 @@
-# 2022,June and July
+# 2022
 
 [中文](README.md) | English  
 
