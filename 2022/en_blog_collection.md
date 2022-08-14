@@ -12,7 +12,7 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_08_13](https://www.themarthablog.com/2022/08/the-bedford-by-martha-stewart.html)】
 * 【[MarthaBlog_2022_08_12](https://www.themarthablog.com/2022/08/cutting-down-an-ash-tree-at-the-farm.html)】
 * 【[MarthaBlog_2022_08_11](https://www.themarthablog.com/2022/08/my-thriving-stewartia-garden-in-summer.html)】
 * 【[MarthaBlog_2022_08_10](https://www.themarthablog.com/2022/08/water-water-water-with-gilmour.html)】
