@@ -11,7 +11,7 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_09_02](https://www.themarthablog.com/2022/09/my-new-mercedes-benz-eqs.html)】
 * 【[MarthaBlog_2022_09_01](https://www.themarthablog.com/2022/09/my-ostentation-of-peafowl-safe-and-sound.html)】
 * 【[MarthaBlog_2022_08_31](https://www.themarthablog.com/2022/08/a-summer-soiree-at-the-pridwin-hotel-cottages-on-shelter-island.html)】
 * 【[MarthaBlog_2022_08_30](https://www.themarthablog.com/2022/08/a-day-trip-to-landcraft-environments-ltd.html)】
