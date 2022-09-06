@@ -13,7 +13,7 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_09_06](https://www.themarthablog.com/2022/09/a-summer-exhibition-at-the-nybg.html)】
 * 【[MarthaBlog_2022_09_03](https://www.themarthablog.com/2022/09/celebrating-living-on-my-podcast-with-isolde-motley-and-gael-towey.html)】
 * 【[MarthaBlog_2022_09_02](https://www.themarthablog.com/2022/09/my-new-mercedes-benz-eqs.html)】
 * 【[MarthaBlog_2022_09_01](https://www.themarthablog.com/2022/09/my-ostentation-of-peafowl-safe-and-sound.html)】
