@@ -14,8 +14,8 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_09_27](https://www.themarthablog.com/2022/09/visiting-wethersfield-estate-garden.html)】
+* 【[MarthaBlog_2022_09_26](https://www.themarthablog.com/2022/09/a-guest-blog-from-a-trip-to-northern-california.html)】
 * 【[MarthaBlog_2022_09_24](https://www.themarthablog.com/2022/09/martha-by-martha-stewart-apparel-on-martha-com.html)】
 * 【[MarthaBlog_2022_09_23](https://www.themarthablog.com/2022/09/cleaning-the-equipment-barn-on-a-rainy-day.html)】
 * 【[MarthaBlog_2022_09_22](https://www.themarthablog.com/2022/09/moving-the-donkey-run-in-shed.html)】
