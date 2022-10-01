@@ -10,8 +10,8 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_10_01](https://www.themarthablog.com/2022/10/the-tin-building-by-chef-jean-georges-at-the-seaport.html)】
+* 【[MarthaBlog_2022_09_30](https://www.themarthablog.com/2022/09/baling-our-second-cut-of-hay.html)】
 * 【[MarthaBlog_2022_09_29](https://www.themarthablog.com/2022/09/dinner-at-joji-in-new-york-city.html)】
 * 【[MarthaBlog_2022_09_28](https://www.themarthablog.com/2022/09/chefs-riad-nasr-and-lee-hanson-their-restaurant-le-rock-and-my-podcast.html)】
 * 【[MarthaBlog_2022_09_27](https://www.themarthablog.com/2022/09/visiting-wethersfield-estate-garden.html)】
