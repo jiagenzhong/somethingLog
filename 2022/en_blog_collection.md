@@ -9,7 +9,7 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_10_03](https://www.themarthablog.com/2022/10/caring-for-the-carriage-road-at-skylands.html)】
 * 【[MarthaBlog_2022_10_01](https://www.themarthablog.com/2022/10/the-tin-building-by-chef-jean-georges-at-the-seaport.html)】
 * 【[MarthaBlog_2022_09_30](https://www.themarthablog.com/2022/09/baling-our-second-cut-of-hay.html)】
 * 【[MarthaBlog_2022_09_29](https://www.themarthablog.com/2022/09/dinner-at-joji-in-new-york-city.html)】
