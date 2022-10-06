@@ -10,8 +10,8 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_10_06](https://www.themarthablog.com/2022/10/celebrating-the-opening-of-hermes-maison-madison.html)】
+* 【[MarthaBlog_2022_10_05](https://www.themarthablog.com/2022/10/celebrating-mehregan-at-the-untermyer-gardens.html)】
 * 【[MarthaBlog_2022_10_04](https://www.themarthablog.com/2022/10/making-delicious-and-nutritious-food-for-my-dogs.html)】
 * 【[MarthaBlog_2022_10_03](https://www.themarthablog.com/2022/10/caring-for-the-carriage-road-at-skylands.html)】
 * 【[MarthaBlog_2022_10_01](https://www.themarthablog.com/2022/10/the-tin-building-by-chef-jean-georges-at-the-seaport.html)】
