@@ -16,8 +16,8 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_10_21](https://www.themarthablog.com/2022/10/autumn-colors-in-maine-2.html)】
+* 【[MarthaBlog_2022_10_20](https://www.themarthablog.com/2022/10/oven-fried-beef-taquitos-from-martha-stewart-marley-spoon.html)】
 * 【[MarthaBlog_2022_10_19](https://www.themarthablog.com/2022/10/a-fall-garden-tour-at-my-farm.html)】
 * 【[MarthaBlog_2022_10_18](https://www.themarthablog.com/2022/10/mid-october-colors-at-my-farm.html)】
 * 【[MarthaBlog_2022_10_17](https://www.themarthablog.com/2022/10/parmesan-dutch-baby-from-martha-stewart-marley-spoon.html)】
