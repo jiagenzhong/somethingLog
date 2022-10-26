@@ -12,8 +12,8 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_10_26](https://www.themarthablog.com/2022/10/a-guest-blog-from-a-trip-to-nepal.html)】
+* 【[MarthaBlog_2022_10_25](https://www.themarthablog.com/2022/10/its-here-martha-harvest-holiday-2022.html)】
 * 【[MarthaBlog_2022_10_24](https://www.themarthablog.com/2022/10/planting-american-sweetgum-slender-silhouette-in-my-maze.html)】
 * 【[MarthaBlog_2022_10_22](https://www.themarthablog.com/2022/10/time-to-store-all-the-tropical-plants.html)】
 * 【[MarthaBlog_2022_10_21](https://www.themarthablog.com/2022/10/autumn-colors-in-maine-2.html)】
