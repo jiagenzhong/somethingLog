@@ -13,7 +13,7 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_11_01](https://www.themarthablog.com/2022/11/martha-harvest-holiday-2022-2.html)】
 * 【[MarthaBlog_2022_10_31](https://www.themarthablog.com/2022/10/martha-harvest-holiday-2022.html)】
 * 【[MarthaBlog_2022_10_29](https://www.themarthablog.com/2022/10/holiday-decor-at-the-bedford-by-martha-stewart.html)】
 * 【[MarthaBlog_2022_10_28](https://www.themarthablog.com/2022/10/spiced-honeynut-squash-grain-salad-from-martha-stewart-marley-spoon.html)】
