@@ -9,6 +9,11 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
+* 【[]()】
+* 【[]()】
+* 【[]()】
+* 【[MarthaBlog_2022_11_08](https://www.themarthablog.com/2022/11/the-osage-orange-trees-at-my-farm.html)】
+* 【[MarthaBlog_2022_11_07](https://www.themarthablog.com/2022/11/a-very-foggy-morning-at-my-farm.html)】
 * 【[MarthaBlog_2022_11_05](https://www.themarthablog.com/2022/11/friendsgiving-with-martha-stewart-marley-spoon.html)】
 * 【[MarthaBlog_2022_11_04](https://www.themarthablog.com/2022/11/martha-harvest-holiday-2022-5.html)】
 * 【[MarthaBlog_2022_11_03](https://www.themarthablog.com/2022/11/martha-harvest-holiday-2022-4.html)】
