@@ -10,8 +10,8 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_11_26](https://www.themarthablog.com/2022/11/holiday-shopping-2022.html)】
+* 【[MarthaBlog_2022_11_24](https://www.themarthablog.com/2022/11/thanksgiving-preparations-at-my-farm.html)】
 * 【[MarthaBlog_2022_11_23](https://www.themarthablog.com/2022/11/harvesting-vegetables-from-the-greenhouse.html)】
 * 【[MarthaBlog_2022_11_22](https://www.themarthablog.com/2022/11/planting-garlic-for-next-year.html)】
 * 【[MarthaBlog_2022_11_21](https://www.themarthablog.com/2022/11/planting-fernspray-hinoki-cypress.html)】
