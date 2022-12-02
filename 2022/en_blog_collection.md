@@ -10,7 +10,7 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_12_02](https://www.themarthablog.com/2022/12/creamy-swedish-meatballs-with-egg-noodles-cranberry-relish-from-martha-stewart-marley-spoon.html)】
 * 【[MarthaBlog_2022_12_01](https://www.themarthablog.com/2022/12/the-bedford-by-martha-stewart-decorated-for-the-holidays.html)】
 * 【[MarthaBlog_2022_11_30](https://www.themarthablog.com/2022/11/thanksgiving-photos-from-employees-partners-and-friends-2022.html)】
 * 【[MarthaBlog_2022_11_29](https://www.themarthablog.com/2022/11/my-thanksgiving-at-the-farm-2022.html)】
