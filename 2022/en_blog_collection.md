@@ -13,7 +13,7 @@
 * 【[]()】
 * 【[]()】
 * 【[]()】
-* 【[]()】
+* 【[MarthaBlog_2022_12_17](https://www.themarthablog.com/2022/12/a-visit-to-the-tropics-inc-in-hollywood-california.html)】
 * 【[MarthaBlog_2022_12_16](https://www.themarthablog.com/2022/12/my-annual-sagitarian-lunch.html)】
 * 【[MarthaBlog_2022_12_15](https://www.themarthablog.com/2022/12/covering-my-long-and-winding-pergola-for-winter.html)】
 * 【[MarthaBlog_2022_12_14](https://www.themarthablog.com/2022/12/a-guest-blog-from-ari-katz-on-his-dogs-puppies-and-pilot-dogs.html)】
