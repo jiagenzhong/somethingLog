@@ -1,3 +1,101 @@
+
+
+# 2022-01-03
+
+## (简单输出版本)原子的数量
+
+* [726. 原子的数量](https://leetcode.cn/problems/number-of-atoms)
+
+c++版本：
+```c++
+#include<iostream>
+#include<string>
+#include<vector>
+#include<stack>
+#include<map>
+#include<iterator>
+
+using namespace std;
+
+string parseAtom(int& pos, string& formula) {
+  string atom;
+  atom.push_back(formula[pos]);
+  pos++;
+  while (pos < formula.size() && islower(formula[pos])) {
+    atom.push_back(formula[pos]);
+    pos++;
+  }
+  return atom;
+}
+
+int parseNum(int& pos, string& formula) {
+  int cnt = 0;
+  while (pos < formula.size() && isdigit(formula[pos])) {
+    cnt = cnt * 10 + formula[pos] - '0';
+    pos++;
+  }
+  if (cnt == 0) {
+    cnt = 1;
+  }
+  return cnt;
+}
+
+string countOfAtoms(string formula){
+  int i = 0, len=formula.size();
+  stack<map<string, int>> stk;
+
+  vector<string> order;
+
+  stk.push({});
+
+  while (i < len) {
+    string temp_atom;
+    if (formula[i] == '(') {
+      i++;
+      stk.push({});
+    }
+    else if (formula[i] == ')') {
+      i++;
+      int mul = parseNum(i, formula);
+      auto pop_atom = stk.top();
+      stk.pop();
+
+      for (auto& atom : pop_atom) {
+        stk.top()[atom.first] += atom.second * mul;
+      }
+    }
+    else {
+      temp_atom = parseAtom(i, formula);
+      int num = parseNum(i, formula);
+      stk.top()[temp_atom] = num;
+
+      if (find(order.begin(), order.end(), temp_atom) == order.end()) {
+        order.push_back(temp_atom);
+      }
+    }
+  }
+
+  string res;
+  for (size_t i = 0; i < order.size(); i++) {
+    res += order[i];
+    res += to_string(stk.top()[order[i]]);
+  }
+
+  return res;
+}
+
+void main() {
+  string t1("CaCO3");
+  string t2("Fe2(SO4)3");
+
+  cout << countOfAtoms(t1)<<endl;
+  cout << countOfAtoms(t2) << endl;
+
+}
+
+
+```
+
 # 2022-01-02
 
 
