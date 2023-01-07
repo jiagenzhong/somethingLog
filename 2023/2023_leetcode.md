@@ -1,4 +1,42 @@
 
+# 2022-01-06
+
+## 连续子区间和
+* [MMT7 连续子区间和](https://www.nowcoder.com/practice/c7db49124acd415f801eb67de09c6d81)
+```c++
+#include <iostream>
+#include <vector>
+using namespace std;
+typedef long long LL;
+
+int main() {
+    LL arrsize, target;
+    vector<LL> arr;
+    if(cin >> arrsize >> target) {
+        for(LL i=0; i<arrsize; i++){
+            LL temp = 0;
+            cin >> temp;
+            arr.push_back(temp);
+        }
+    }
+
+    LL leftIndex = 0;
+    LL rightIndex = 0;
+    LL sum = 0;
+    LL cnt = 0;
+
+    while(rightIndex < arr.size()){
+        sum += arr[rightIndex++];
+        
+        while(sum >= target){
+            cnt += arr.size()-rightIndex+1;
+            sum -= arr[leftIndex++];
+        }
+    }
+
+    cout << cnt;
+}
+
 
 # 2022-01-03
 
